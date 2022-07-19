@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Discount_Api
+namespace Discount.Api
 {
     public class Program
     {
